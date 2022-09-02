@@ -1,0 +1,15 @@
+Simple Library Management
+A simple library management project that is easy to use and easy to interact with.
+ 
+Functionalities :-
+Input book name, author and book type to add the book. If book name is missing it will shown you error. You can clear book shelf just by clicking on clear shelf. You can also search book by book name, author and type.
+
+Adding Book in Shelf:
+ you can add a book in the shelf by writing the book name ,the auther and select from the dropdown the kind of book it is then click add. 
+
+Adding Book Without Entering Book Name:
+if you add a book without the book name it will show you an error of "please enter the name of the book"
+
+Clearing Book Shelf:
+you can clear the book shelf by clicking clear the book shelf and it will clear all the books.
+
